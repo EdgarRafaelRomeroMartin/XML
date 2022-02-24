@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Factura>
+<Business_contact_information>
+    <steet_address> Calle los pinos </steet_address>
+    <city>Hermosillo </city>
+    <state>Sonora </state>
+    <zip_code>2212 </zip_code>
+    <email>Correo@gmail.com</email>
+    <website>www.Web.com</website>
+</Business_contact_information>
+
+    <Invoice_number>
+<InvoiceNum> 65232 </InvoiceNum>
+<date>23/02/2022 </date>
+<due>13/05/2022</due>
+</Invoice_number>
+
+    <Ship_to>
+        <Client_name> Jhin </Client_name>
+        <street_address> Calle los pinos </street_address>
+        <city>Hermosillo </city>
+        <state>Sonora </state>
+        <zip_code>2212 </zip_code>
+    </Ship_to>
+
+    <Bill_to>
+        <Client_name> 65232 </Client_name>
+        <street_address>23/02/2022 </street_address>
+        <city>Hermosillo </city>
+        <state>Sonora </state>
+        <zip_code>2212 </zip_code>
+    </Bill_to>
+
+    <Description_of_Goods_or_services>
+        <Product_service >Ps4</Product_service >
+        <Description>Consola para entrtenimiento de sony</Description>
+        <Qty_hrs>11:00</Qty_hrs>
+        <Rate>Apto para todo publico </Rate>
+        <Amount>1</Amount>
+        <Product_or_service>Product</Product_or_service>
+        <Describe_your_product_or_service>Consola para entrtenimiento de sony</Describe_your_product_or_service>
+    </Description_of_Goods_or_services>
+</Factura>

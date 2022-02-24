@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mensaje>
+    <Remitente>
+        <Nombre> Alfredo Reino </Nombre>
+        <email> alf@ibium.com</email>
+    </Remitente>
+    <destinatario>
+        <Nombre> Alfredo Reino </Nombre>
+        <email> alf@ibium.com</email>
+    </destinatario>
+
+
+    <asunto>Hola Bill</asunto>
+    <Texto>
+        <Parrafo>
+            ¿Hola que tal?
+        </Parrafo>
+        <Parrafo>
+            Hace mucho que no escribes. A ver si llamas y quedamos pronto
+        </Parrafo>
+        <Parrafo>
+            Un saludo
+        </Parrafo>
+    </Texto>
+</mensaje>
